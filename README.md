@@ -1,10 +1,12 @@
-- 👋 Hi, I’m @PiyushAggarwal01
-- 👀 I’m interested in Artificial Intelligence and Machine Learning
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on AI Projects
-- 📫 reach me at piysuh.tech2024@gmail.com
-- 🎓 IK Gujral Punjab Techinal Univeristy
-- <!---
-PiyushAggarwal01/PiyushAggarwal01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# 👋 Hi, I’m Piyush Aggarwal
+
+- 👀 I’m interested in **Artificial Intelligence** and **Machine Learning**  
+- 🌱 I have learned **Python**, **NumPy**, **Pandas**, and **Matplotlib**  
+- 🤖 I’m currently working on **Machine Learning** projects  
+- 💞️ I’m looking to collaborate on **AI and ML projects**  
+- 📫 Reach me at: **piyush.tech2024@gmail.com**  
+- 🎓 Student at **IK Gujral Punjab Technical University**
+
+---
+
+✨ Always curious to learn new technologies and build something meaningful!
